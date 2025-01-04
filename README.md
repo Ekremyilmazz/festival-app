@@ -39,3 +39,16 @@ Bu proje, hayali bir müzik festivalinin program ve etkinlik bilgilerini göster
    ```
    npm run dev
 
+## 📸 Ekran Görüntüleri
+
+### Ana Sayfa
+![Ana Sayfa]([buraya_github_url](https://github.com/user-attachments/assets/8885df0f-a04a-4dde-8a16-8925e5ffd7c8))
+
+### Filtreleme Özelliği
+![Filtreleme](buraya_github_url)
+
+### Etkinlik Kartları
+![Etkinlikler](buraya_github_url)
+
+### Mobil Görünüm
+![Mobil](buraya_github_url)
