@@ -22,6 +22,7 @@ Bu proje, hayali bir müzik festivalinin program ve etkinlik bilgilerini göster
 - Tailwind CSS
 - React Hooks (useState, useEffect)
 - Modern JavaScript (ES6+)
+- Local Storage
 - Vercel
 
 ## 💻 Kurulum
