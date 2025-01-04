@@ -25,15 +25,17 @@ Bu proje, hayali bir müzik festivalinin program ve etkinlik bilgilerini göster
 
 ## 💻 Kurulum
 
-Projeyi yerel ortamınızda çalıştırmak için:
-1.Repoyu klonlayın
-```bash
+1. Repoyu yerel bilgisayarınıza alın:
 
-git clone https://github.com/Ekremyilmazz/festival-app.git
-2.Proje dizinine gidin
+   ```bash
+   git clone https://github.com/Ekremyilmazz/festival-app.git
+2. Proje dizinine gidin:
+   ```
+   cd festival-app
+3. Bağımlılıkları yükleyin:
+   ```
+   npm install
+4. Geliştirme sunucusunu başlatın:
+   ```
+   npm run dev
 
-```
-npm install
-3.Geliştirme sunucusunu başlatın
-```
-npm run dev
