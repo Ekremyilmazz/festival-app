@@ -42,7 +42,7 @@ Bu proje, hayali bir müzik festivalinin program ve etkinlik bilgilerini göster
 ## 📸 Ekran Görüntüleri
 
 ### Ana Sayfa
-![Ana Sayfa]([buraya_github_url](https://github.com/user-attachments/assets/8885df0f-a04a-4dde-8a16-8925e5ffd7c8))
+![Ana Sayfa](https://github.com/user-attachments/assets/53ef4362-8bac-499f-a62f-80c963a50879)
 
 ### Filtreleme Özelliği
 ![Filtreleme](buraya_github_url)
