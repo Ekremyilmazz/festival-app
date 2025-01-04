@@ -45,10 +45,10 @@ Bu proje, hayali bir müzik festivalinin program ve etkinlik bilgilerini göster
 ![Ana Sayfa](https://github.com/user-attachments/assets/53ef4362-8bac-499f-a62f-80c963a50879)
 
 ### Filtreleme Özelliği
-![Filtreleme](buraya_github_url)
+![Filtreleme](https://github.com/user-attachments/assets/c5ae5ef2-f0f8-447d-9c49-0ca2028bc914)
 
 ### Etkinlik Kartları
-![Etkinlikler](buraya_github_url)
+![Etkinlikler](https://github.com/user-attachments/assets/76a2f098-0d7b-4fb9-87ce-d522845e5aff)
 
 ### Mobil Görünüm
-![Mobil](buraya_github_url)
+![Mobil](https://github.com/user-attachments/assets/6869c521-41c6-4b79-b438-a17c26343de3)
